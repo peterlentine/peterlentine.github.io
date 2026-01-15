@@ -1,7 +1,7 @@
 
 # Pete Lentine
 
-Rochester, NY • pete.lentine@wegmans.com • (585) 313-9734
+Rochester, NY • <pete.lentine@wegmans.com> • (585) 313-9734
 
 ## LEAD SOFTWARE ENGINEER
 
@@ -39,21 +39,25 @@ Lead engineer with 11+ years building and modernizing cloud systems on Azure. Kn
 
 ### Wegmans Food Markets — Lead Software Engineer  *(YYYY–Present)*
 
-**AI & Copilot Enablement**
+#### AI & Copilot Enablement
+
 - Institutionalized **Copilot Instructions** across repos to encode framework preferences, code style, and contribution rules; boosted first‑pass quality and reduced nit‑level review churn.
 - Used **Copilot CLI** to ingest legacy **C** (mainframe‑replacement) modules and generate **business rules, inputs/outputs, and flowcharts**; established a refreshable documentation pipeline that de‑risks migration of MFR features into the **Price** app.
 - Executed **agent‑assisted .NET upgrades (6 → 8)** with the **.NET Upgrade Wizard Agent**; resolved API/library diffs while keeping CI/CD green.
 - Built **prompt packs** that generate end‑to‑end scaffolding for health checks and alerts—**service code + KQL + pipeline + Bicep + docs**—offloading ~**80%** of repeatable platform work. Recent win: automated **coupon‑sequence exhaustion monitoring** in three prompts.
 
-**Velocity, Quality, and Reliability**
+#### Velocity, Quality, and Reliability
+
 - Led the design and rollout of a multi‑layer **test automation** strategy (unit/system/UI), cutting regression runtime **3 days → 15 minutes** and enabling **bi‑weekly** releases with higher confidence.
 - Drove pricing pipeline improvements to **reduce same‑day price propagation from 2+ hours → < 2 minutes**, enabling near‑real‑time updates.
 
-**Product & Platform Outcomes**
+#### Product & Platform Outcomes
+
 - Architected and delivered **flexible price‑markup capabilities** for e‑commerce (global/department/category/class/item), unlocking incremental revenue and faster merchandising tests.
 - Created a centralized **documentation repo**, standards, and review workflow; implemented onboarding/contribution guides that **reduced ramp time ~2 weeks → 3 days** and improved consistency/discoverability.
 
-**Leadership & Mentoring**
+#### Leadership & Mentoring
+
 - Mentor to multiple engineers with regular 1:1s focused on growth and role clarity; **coached an Associate SQE → Lead SWE** through sustained guidance and project opportunities.
 - Provide architectural guidance, patterns, and review cadences that increase team autonomy and delivery consistency.
 
@@ -86,4 +90,5 @@ B.S. in Information Technology with a concentration in Database and Networking M
 ---
 
 ## KEYWORDS (ATS)
+
 Azure • .NET • C# • Azure Functions • App Service • ADF • Cosmos DB • SQL Server • Graph DB • Storage (Blob/Table/Queue) • Event‑driven • Event Grid • Service Bus • Azure DevOps Pipelines • ARM/Bicep • Template Specs • App Insights • KQL • Azure Monitor • Entra ID/Azure AD • RBAC • OAuth • TLS • Documentation • Mentoring • Test Automation • CI/CD • Git • **GitHub/M365 Copilot (Instructions/CLI/Agent)**
