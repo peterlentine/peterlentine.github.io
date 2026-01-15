@@ -63,8 +63,7 @@ Lead engineer with 11+ years building and modernizing cloud systems on Azure. Kn
 
 **Stack & Tools:** Azure (Functions, App Service, ADF, Storage), Cosmos DB, Graph DB, SQL Server, Event Grid, Service Bus, .NET 8/C#, ASP.NET Core, Angular, NSB, Azure DevOps Pipelines, ARM/**Bicep**/Template Specs, App Insights/KQL, Azure Monitor Alerts, Entra ID (RBAC/OAuth), TLS/security policies, GitHub/M365 Copilot (Instructions/CLI/Agent)
 
-> *Earlier roles (prior to Lead SWE):* Senior Software Engineer • Software Engineer — details available on request  
-> *(Add dates and bullets here if you want a full two‑page version.)*
+> *Earlier roles (prior to Lead SWE):* • Software Engineer • Senior Programmer Analyst • Programmer Analyst • Programmer — details available on request  
 
 ---
 
@@ -85,7 +84,8 @@ B.S. in Information Technology with a concentration in Database and Networking M
 ## COMMUNITY & RECOGNITION
 
 - Engineering mentor and onboarding guide author; run doc/ADR standards and knowledge shares for new and rotating team members.
-- Cross‑team collaborator translating ambiguous requirements into executable designs and roadmaps.
+- Cross‑team collaborator, often sought for architectural guidance and best practices around monitoring strategies and test automation.
+- Core member of the Software Development Lifecycle Strike Team that gathered engineer feedback and identified high‑impact improvement opportunities; successfully implemented a git‑based documentation policy for contributing guides, overviews, and Architecture Decision Records (ADRs) across all teams.
 
 ---
 
