@@ -37,7 +37,7 @@ Lead engineer with 11+ years building and modernizing cloud systems on Azure. Kn
 
 ## EXPERIENCE
 
-### Wegmans Food Markets — Lead Software Engineer  *(YYYY–Present)*
+### Wegmans Food Markets — Lead Software Engineer  *(2024–Present)*
 
 #### AI & Copilot Enablement
 
