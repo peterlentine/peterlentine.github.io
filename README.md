@@ -1,13 +1,16 @@
 
 # Pete Lentine
-Chili, NY • pete.lentine@wegmans.com • (xxx) xxx‑xxxx • linkedin.com/in/your-handle • github.com/your-handle
 
-## LEAD SOFTWARE ENGINEER — Candidate for AI Special Assignment
-Lead engineer with 11+ years building and modernizing cloud systems on Azure. Known for simplifying complex domains, speeding up delivery with test automation and strong DevEx, and enabling teams through documentation standards and mentoring. Heavy daily user of GitHub/M365 Copilot (Instructions, CLI, agent mode) to translate legacy code into knowledge, automate repeatable platform work, and accelerate upgrades. Ready to partner with SAM to deliver credible AI PoCs and scale adoption across the developer community.
+Rochester, NY • pete.lentine@wegmans.com • (585) 313-9734
+
+## LEAD SOFTWARE ENGINEER
+
+Lead engineer with 11+ years building and modernizing cloud systems on Azure. Known for simplifying complex domains, speeding up delivery with test automation and strong DevEx, and enabling teams through documentation standards and mentoring. Heavy daily user of Copilot (Instructions, CLI, agent mode) to translate legacy code into knowledge, automate repeatable platform work, and accelerate upgrades. Ready to partner with Solution Architecture Manager to deliver credible AI PoCs and scale adoption across the developer community.
 
 ---
 
 ## SELECTED HIGHLIGHTS
+
 - **Release velocity:** Automated manual regression suites (unit, system, UI) → cut runtime **3 days → 15 minutes**; **moved releases from monthly → bi‑weekly**.
 - **Real‑time pricing:** Reduced **same‑day price propagation from 2+ hours → < 2 minutes**.
 - **Revenue enablement:** Delivered flexible **price‑markup** capability (global/department/category/class/item) powering incremental revenue and faster experimentation.
@@ -18,21 +21,24 @@ Lead engineer with 11+ years building and modernizing cloud systems on Azure. Kn
 ---
 
 ## CORE SKILLS
+
 **Architecture & Patterns:** Event‑driven systems • Distributed services • API design • Modernization • Resiliency/observability best practices  
-**Cloud (Azure):** Functions, App Service, Azure Data Factory (ADF), Storage (Blob/Table/Queue)  
+**Cloud (Azure):** Functions, App Service, Azure Data Factory (ADF), Storage (Blob/Table/Queue), API Management
 **Data:** Cosmos DB, Graph DB, SQL Server  
 **Messaging/Integration:** Event Grid, Service Bus  
-**DevOps & IaC:** Azure DevOps Pipelines, ARM/**Bicep**, Template Specs, Git strategies  
+**DevOps & IaC:** Azure DevOps Pipelines, ARM/**Bicep**, Template Specs, GitHub workflows
 **Observability:** Application Insights, Azure Monitor Alerts, KQL  
 **Security:** Entra ID/Azure AD, RBAC, OAuth/OIDC, TLS/policy requirements  
-**Languages/Frameworks:** C#, .NET/.NET 8, ASP.NET Core, Angular, JavaScript/TypeScript, PowerShell, **NServiceBus (NSB)**  
+**Languages/Frameworks:** C#, .NET, ASP.NET Core, Angular, JavaScript/TypeScript, PowerShell, NServiceBus (NSB)
 **Enablement:** Technical leadership, mentoring, documentation standards, ADR habits, community guidance  
 **AI & Copilot (hands‑on):** GitHub/M365 Copilot (repo **Instructions**, **CLI**, **agent mode**), prompt design for code/KQL/IaC/docs automation
 
 ---
 
 ## EXPERIENCE
+
 ### Wegmans Food Markets — Lead Software Engineer  *(YYYY–Present)*
+
 **AI & Copilot Enablement**
 - Institutionalized **Copilot Instructions** across repos to encode framework preferences, code style, and contribution rules; boosted first‑pass quality and reduced nit‑level review churn.
 - Used **Copilot CLI** to ingest legacy **C** (mainframe‑replacement) modules and generate **business rules, inputs/outputs, and flowcharts**; established a refreshable documentation pipeline that de‑risks migration of MFR features into the **Price** app.
@@ -59,6 +65,7 @@ Lead engineer with 11+ years building and modernizing cloud systems on Azure. Kn
 ---
 
 ## SELECTED PROJECTS & POCs
+
 - **Code‑to‑Knowledge for Legacy C (MFR → Price App):** Automated production of **business rules, data contracts, and flowcharts** from legacy code with Copilot CLI to enable safe migrations and ongoing regeneration as code evolves.  
 - **Real‑time Pricing Responsiveness:** Event‑driven updates, observability (App Insights/alerts), and resiliency patterns to ensure price changes propagate in **minutes**.  
 - **DevEx Accelerators:** Reusable patterns for health checks/alerts and CI/IaC, reducing time‑to‑production for new services and eliminating common omissions.
@@ -66,14 +73,13 @@ Lead engineer with 11+ years building and modernizing cloud systems on Azure. Kn
 ---
 
 ## EDUCATION
-B.S. in Computer Science — *University, Year*  *(replace with specifics)*
 
-## CERTIFICATIONS (optional)
-Azure Solutions Architect (AZ‑305) • Azure DevOps Engineer (AZ‑400) • Other relevant internal/external trainings  *(add if applicable)*
+B.S. in Information Technology with a concentration in Database and Networking Minor in Economics — Rochester Institute of Technology, 2014
 
 ---
 
 ## COMMUNITY & RECOGNITION
+
 - Engineering mentor and onboarding guide author; run doc/ADR standards and knowledge shares for new and rotating team members.
 - Cross‑team collaborator translating ambiguous requirements into executable designs and roadmaps.
 
