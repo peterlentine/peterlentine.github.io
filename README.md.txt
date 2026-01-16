@@ -18,7 +18,7 @@ Lead engineer with 11+ years of software engineering experience, specializing in
 **Cloud (Azure):** Functions, App Service, Azure Data Factory (ADF), Storage (Blob/Table/Queue), API Management
 **Data:** Cosmos DB, Graph DB, SQL Server  
 **Messaging/Integration:** Event Grid, Service Bus  
-**DevOps & IaC:** Azure DevOps Pipelines, ARM/**Bicep**, Template Specs, GitHub workflows
+**DevOps & IaC:** Azure DevOps Pipelines, ARM/Bicep, Template Specs, GitHub workflows
 **Observability:** Application Insights, Azure Monitor Alerts, KQL  
 **Security:** Entra ID/Azure AD, RBAC, OAuth/OIDC, TLS/policy requirements  
 **Languages/Frameworks:** C#, .NET, ASP.NET Core, Angular, JavaScript/TypeScript, PowerShell, NServiceBus (NSB)
