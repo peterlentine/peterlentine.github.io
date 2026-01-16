@@ -55,6 +55,7 @@ Lead engineer with 11+ years of software engineering experience, specializing in
 
 - Architected and delivered **flexible price‑markup capabilities** for e‑commerce (global/department/category/class/item), unlocking incremental revenue and faster merchandising tests.
 - Created a centralized **documentation repo**, standards, and review workflow; implemented onboarding/contribution guides that **reduced onboarding time from ~2 weeks → 3 days** and improved consistency/discoverability.
+- Drove adoption of **local development environments** (SQL Server, Cosmos DB, Azure Storage Emulator); built an automated setup tool that eliminates manual configuration, enabling engineers to run the full stack locally with zero cloud dependencies.
 
 #### Leadership & Mentoring
 
