@@ -12,17 +12,6 @@ Lead engineer with 11+ years of software engineering experience, specializing in
 
 ---
 
-## SELECTED HIGHLIGHTS
-
-- **Release velocity:** Automated manual regression suites (unit, system, UI) → cut runtime **3 days → 15 minutes**; **moved releases from monthly → bi‑weekly**.
-- **Real‑time pricing:** Reduced **same‑day price propagation from 2+ hours → < 2 minutes**.
-- **Revenue enablement:** Delivered flexible **price‑markup** capability (global/department/category/class/item) powering incremental revenue and faster experimentation.
-- **Onboarding & docs:** Built a documentation ecosystem and review process → **new‑hire onboarding reduced from ~2 weeks → 3 days**.
-- **Mentoring:** Ongoing 1:1 coaching; guided an **Associate SQE → Lead Software Engineer**.
-- **Copilot at scale:** Team‑level Copilot Instructions, CLI‑based code comprehension/flowcharts for legacy code, agent‑assisted **.NET upgrades** , and prompt packs that offload repeatable tasks (code + KQL + pipelines + Bicep + docs).
-
----
-
 ## CORE SKILLS
 
 **Architecture & Patterns:** Event‑driven systems • Distributed services • API design • Modernization • Resiliency/observability best practices  
