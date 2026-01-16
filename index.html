@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pete Lentine - Lead Software Engineer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: #fff;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #333;
+            padding-bottom: 20px;
+        }
+        
+        .header-left h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            color: #000;
+        }
+        
+        .header-left .contact {
+            color: #555;
+            font-size: 1em;
+        }
+        
+        .header-left .contact a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        
+        .header-left .contact a:hover {
+            text-decoration: underline;
+        }
+        
+        .header-right img {
+            width: 150px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .title {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #000;
+            margin: 20px 0;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .summary {
+            margin-bottom: 30px;
+            line-height: 1.7;
+            color: #444;
+        }
+        
+        hr {
+            border: none;
+            border-top: 2px solid #ddd;
+            margin: 30px 0;
+        }
+        
+        h2 {
+            font-size: 1.4em;
+            margin: 30px 0 15px 0;
+            color: #000;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        h3 {
+            font-size: 1.2em;
+            margin: 20px 0 10px 0;
+            color: #000;
+        }
+        
+        h4 {
+            font-size: 1.1em;
+            margin: 15px 0 10px 0;
+            color: #222;
+            font-style: italic;
+        }
+        
+        ul {
+            margin: 10px 0 20px 20px;
+        }
+        
+        li {
+            margin: 8px 0;
+            line-height: 1.6;
+        }
+        
+        strong {
+            color: #000;
+        }
+        
+        .skills-section p {
+            margin: 10px 0;
+            line-height: 1.7;
+        }
+        
+        .skills-label {
+            font-weight: bold;
+            color: #000;
+        }
+        
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin: 20px 0 10px 0;
+        }
+        
+        .experience-header h3 {
+            margin: 0;
+        }
+        
+        .experience-header .date {
+            font-style: italic;
+            color: #555;
+        }
+        
+        .stack-tools {
+            margin: 15px 0;
+            padding: 15px;
+            background: #f5f5f5;
+            border-radius: 4px;
+            line-height: 1.7;
+        }
+        
+        blockquote {
+            margin: 15px 0;
+            padding-left: 20px;
+            border-left: 3px solid #ddd;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .keywords {
+            line-height: 2;
+            color: #555;
+        }
+        
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        @media print {
+            body {
+                max-width: 100%;
+                padding: 20px;
+            }
+            
+            .header-right img {
+                width: 120px;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+            
+            .header-right {
+                margin-top: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-left">
+            <h1>Pete Lentine</h1>
+            <div class="contact">Rochester, NY • <a href="mailto:pete.lentine@wegmans.com">pete.lentine@wegmans.com</a> • (585) 313-9734</div>
+        </div>
+        <div class="header-right">
+            <img src="profile.png" alt="Pete Lentine">
+        </div>
+    </div>
+
+    <div class="title">Lead Software Engineer</div>
+
+    <div class="summary">
+        Lead engineer with 11+ years of software engineering experience, specializing in building and modernizing cloud systems on Azure. Known for simplifying complex domains, speeding up delivery with test automation and strong DevEx, and enabling teams through documentation standards and mentoring. Heavy daily user of Copilot (Instructions, CLI, agent mode) to translate legacy code into knowledge, automate repeatable platform work, and accelerate upgrades. Ready to partner with Solution Architecture Manager to deliver credible AI PoCs and scale adoption across the developer community.
+    </div>
+
+    <hr>
+
+    <h2>Selected Highlights</h2>
+    <ul>
+        <li><strong>Release velocity:</strong> Automated manual regression suites (unit, system, UI) → cut runtime <strong>3 days → 15 minutes</strong>; <strong>moved releases from monthly → bi‑weekly</strong>.</li>
+        <li><strong>Real‑time pricing:</strong> Reduced <strong>same‑day price propagation from 2+ hours → &lt; 2 minutes</strong>.</li>
+        <li><strong>Revenue enablement:</strong> Delivered flexible <strong>price‑markup</strong> capability (global/department/category/class/item) powering incremental revenue and faster experimentation.</li>
+        <li><strong>Onboarding & docs:</strong> Built a documentation ecosystem and review process → <strong>new‑hire onboarding reduced from ~2 weeks → 3 days</strong>.</li>
+        <li><strong>Mentoring:</strong> Ongoing 1:1 coaching; guided an <strong>Associate SQE → Lead Software Engineer</strong>.</li>
+        <li><strong>Copilot at scale:</strong> Team‑level Copilot Instructions, CLI‑based code comprehension/flowcharts for legacy code, agent‑assisted <strong>.NET upgrades</strong>, and prompt packs that offload repeatable tasks (code + KQL + pipelines + Bicep + docs).</li>
+    </ul>
+
+    <hr>
+
+    <h2>Core Skills</h2>
+    <div class="skills-section">
+        <p><span class="skills-label">Architecture & Patterns:</span> Event‑driven systems • Distributed services • API design • Modernization • Resiliency/observability best practices</p>
+        <p><span class="skills-label">Cloud (Azure):</span> Functions, App Service, Azure Data Factory (ADF), Storage (Blob/Table/Queue), API Management</p>
+        <p><span class="skills-label">Data:</span> Cosmos DB, Graph DB, SQL Server</p>
+        <p><span class="skills-label">Messaging/Integration:</span> Event Grid, Service Bus</p>
+        <p><span class="skills-label">DevOps & IaC:</span> Azure DevOps Pipelines, ARM/<strong>Bicep</strong>, Template Specs, GitHub workflows</p>
+        <p><span class="skills-label">Observability:</span> Application Insights, Azure Monitor Alerts, KQL</p>
+        <p><span class="skills-label">Security:</span> Entra ID/Azure AD, RBAC, OAuth/OIDC, TLS/policy requirements</p>
+        <p><span class="skills-label">Languages/Frameworks:</span> C#, .NET, ASP.NET Core, Angular, JavaScript/TypeScript, PowerShell, NServiceBus (NSB)</p>
+        <p><span class="skills-label">Enablement:</span> Technical leadership, mentoring, documentation standards, ADR habits, community guidance</p>
+        <p><span class="skills-label">AI & Copilot (hands‑on):</span> GitHub/M365 Copilot (repo <strong>Instructions</strong>, <strong>CLI</strong>, <strong>agent mode</strong>), prompt design for code/KQL/IaC/docs automation</p>
+    </div>
+
+    <hr>
+
+    <h2>Experience</h2>
+
+    <div class="experience-header">
+        <h3>Wegmans Food Markets — Lead Software Engineer</h3>
+        <span class="date">(2024–Present)</span>
+    </div>
+
+    <h4>AI & Copilot Enablement</h4>
+    <ul>
+        <li>Institutionalized <strong>Copilot Instructions</strong> across repos to encode framework preferences, code style, and contribution rules; boosted first‑pass quality and reduced nit‑level review churn.</li>
+        <li>Used <strong>Copilot CLI</strong> to ingest legacy mainframe code modules and generate <strong>business rules, inputs/outputs, and flowcharts</strong>; established a refreshable documentation pipeline that de‑risks migration of MFR features into the <strong>Price</strong> app.</li>
+        <li>Executed <strong>agent‑assisted .NET upgrades</strong> with the <strong>.NET Upgrade Wizard Agent</strong>; resolved API/library diffs while keeping CI/CD green.</li>
+        <li>Built <strong>prompt packs</strong> that generate end‑to‑end scaffolding for health checks and alerts—<strong>service code + KQL + pipeline + Bicep + docs</strong>—offloading repeatable platform work. Recent win: automated <strong>coupon‑sequence exhaustion monitoring</strong> in three prompts.</li>
+    </ul>
+
+    <h4>Velocity, Quality, and Reliability</h4>
+    <ul>
+        <li>Led the design and rollout of a multi‑layer <strong>test automation</strong> strategy (unit/system/UI), cutting regression runtime <strong>3 days → 15 minutes</strong> and enabling <strong>bi‑weekly</strong> releases with higher confidence.</li>
+        <li>Drove pricing pipeline improvements to <strong>reduce same‑day price propagation from 2+ hours → &lt; 2 minutes</strong>, enabling near‑real‑time updates.</li>
+    </ul>
+
+    <h4>Product & Platform Outcomes</h4>
+    <ul>
+        <li>Architected and delivered <strong>flexible price‑markup capabilities</strong> for e‑commerce (global/department/category/class/item), unlocking incremental revenue and faster merchandising tests.</li>
+        <li>Created a centralized <strong>documentation repo</strong>, standards, and review workflow; implemented onboarding/contribution guides that <strong>reduced onboarding time from ~2 weeks → 3 days</strong> and improved consistency/discoverability.</li>
+        <li>Drove adoption of <strong>local development environments</strong> (SQL Server, Cosmos DB, Azure Storage Emulator); built an automated setup tool that eliminates manual configuration, enabling engineers to run the full stack locally with zero cloud dependencies.</li>
+    </ul>
+
+    <h4>Leadership & Mentoring</h4>
+    <ul>
+        <li>Mentor to multiple engineers with regular 1:1s focused on growth and role clarity; <strong>coached an Associate SQE → Lead SWE</strong> through sustained guidance and project opportunities.</li>
+        <li>Provide architectural guidance, patterns, and review cadences that increase team autonomy and delivery consistency.</li>
+    </ul>
+
+    <h4>Stack & Tools</h4>
+    <div class="stack-tools">
+        Azure (Functions, App Service, ADF, Storage), Cosmos DB, Graph DB, SQL Server, Event Grid, Service Bus, .NET/C#, ASP.NET Core, Angular, NSB, Azure DevOps Pipelines, ARM/<strong>Bicep</strong>/Template Specs, App Insights/KQL, Azure Monitor Alerts, Entra ID (RBAC/OAuth), TLS/security policies, GitHub/M365 Copilot (Instructions/CLI/Agent)
+    </div>
+
+    <blockquote>
+        <em>Earlier roles (prior to Lead SWE):</em> • Software Engineer • Senior Programmer Analyst • Programmer Analyst • Programmer — details available on request
+    </blockquote>
+
+    <hr>
+
+    <h2>Selected Projects & POCs</h2>
+    <ul>
+        <li><strong>Code‑to‑Knowledge for Legacy C (MFR → Price App):</strong> Automated production of <strong>business rules, data contracts, and flowcharts</strong> from legacy code with Copilot CLI to enable safe migrations and ongoing regeneration as code evolves.</li>
+        <li><strong>Real‑time Pricing Responsiveness:</strong> Event‑driven updates, observability (App Insights/alerts), and resiliency patterns to ensure price changes propagate in <strong>minutes</strong>.</li>
+        <li><strong>DevEx Accelerators:</strong> Reusable patterns for health checks/alerts and CI/IaC, reducing time‑to‑production for new services and eliminating common omissions.</li>
+    </ul>
+
+    <hr>
+
+    <h2>Education</h2>
+    <p><strong>Rochester Institute of Technology</strong> — Rochester, NY<br>
+    B.S. in Information Technology, Minor in Economics | 2014</p>
+
+    <hr>
+
+    <h2>Community & Recognition</h2>
+    <ul>
+        <li>Engineering mentor and onboarding guide author; run doc/ADR standards and knowledge shares for new and rotating team members.</li>
+        <li>Cross‑team collaborator, often sought for architectural guidance and best practices around monitoring strategies and test automation.</li>
+        <li>Core member of the Software Development Lifecycle Strike Team that gathered feedback from every engineering group and identified high‑impact improvement opportunities; successfully implemented a <a href="https://docs.wegmans.tech/engineering/engineering-practices/practices-coding/#cop2-core-system-documentation-stored-in-source-control">git‑based documentation policy</a> for contributing guides, overviews, and Architecture Decision Records (ADRs) across all teams.</li>
+        <li>Host regular Copilot adoption sessions and demos, sharing practical techniques (Copilot Instructions, CLI workflows, prompt patterns) and real‑world wins to accelerate team productivity and AI fluency.</li>
+    </ul>
+
+    <hr>
+
+    <h2>Keywords (ATS)</h2>
+    <div class="keywords">
+        Azure • .NET • C# • Azure Functions • App Service • ADF • Cosmos DB • SQL Server • Graph DB • Storage (Blob/Table/Queue) • Event‑driven • Event Grid • Service Bus • Azure DevOps Pipelines • ARM/Bicep • Template Specs • App Insights • KQL • Azure Monitor • Entra ID/Azure AD • RBAC • OAuth • TLS • Documentation • Mentoring • Test Automation • CI/CD • Git • <strong>GitHub/M365 Copilot (Instructions/CLI/Agent)</strong>
+    </div>
+</body>
+</html>

@@ -2,10 +2,13 @@
 # Pete Lentine
 
 Rochester, NY • <pete.lentine@wegmans.com> • (585) 313-9734
+<div style="overflow: auto;">
+  <img src="profile.png" alt="Pete Lentine" width="150" align="right" style="margin-left: 20px; border-radius: 8px;" />
 
 ## LEAD SOFTWARE ENGINEER
 
 Lead engineer with 11+ years of software engineering experience, specializing in building and modernizing cloud systems on Azure. Known for simplifying complex domains, speeding up delivery with test automation and strong DevEx, and enabling teams through documentation standards and mentoring. Heavy daily user of Copilot (Instructions, CLI, agent mode) to translate legacy code into knowledge, automate repeatable platform work, and accelerate upgrades. Ready to partner with Solution Architecture Manager to deliver credible AI PoCs and scale adoption across the developer community.
+</div>
 
 ---
 
