@@ -86,6 +86,7 @@ B.S. in Information Technology with a concentration in Database and Networking M
 - Engineering mentor and onboarding guide author; run doc/ADR standards and knowledge shares for new and rotating team members.
 - Cross‑team collaborator, often sought for architectural guidance and best practices around monitoring strategies and test automation.
 - Core member of the Software Development Lifecycle Strike Team that gathered engineer feedback and identified high‑impact improvement opportunities; successfully implemented a git‑based documentation policy for contributing guides, overviews, and Architecture Decision Records (ADRs) across all teams.
+- Host regular Copilot adoption sessions and demos, sharing practical techniques (Copilot Instructions, CLI workflows, prompt patterns) and real‑world wins to accelerate team productivity and AI fluency.
 
 ---
 
