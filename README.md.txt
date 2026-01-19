@@ -56,7 +56,7 @@ Lead engineer with 11+ years of software engineering experience, specializing in
 
 #### Stack & Tools
 
-Azure (Functions, App Service, ADF, Storage), Cosmos DB, Graph DB, SQL Server, Event Grid, Service Bus, .NET/C#, ASP.NET Core, Angular, NSB, Azure DevOps Pipelines, ARM/**Bicep**/Template Specs, App Insights/KQL, Azure Monitor Alerts, Entra ID (RBAC/OAuth), TLS/security policies, GitHub/M365 Copilot (Instructions/CLI/Agent)
+Azure (Functions, App Service, ADF, Storage), Cosmos DB, Graph DB, SQL Server, Event Grid, Service Bus, .NET/C#, ASP.NET Core, Angular, NSB, Azure DevOps Pipelines, ARM/Bicep/Template Specs, App Insights/KQL, Azure Monitor Alerts, Entra ID (RBAC/OAuth), TLS/security policies, GitHub/M365 Copilot (Instructions/CLI/Agent)
 
 > *Earlier roles (prior to Lead SWE):* • Software Engineer • Senior Programmer Analyst • Programmer Analyst • Programmer — details available on request  
 
